@@ -14,7 +14,8 @@ sequences = list(SeqIO.parse(file_path, "fastaa"))
 
 # -----------------------------
 # Translate DNA sequences to proteins (longest ORF)
-# -----------------------------
+# -----------------------------  
+# adding fitst commit   
 
 aa_sequences = []
 
