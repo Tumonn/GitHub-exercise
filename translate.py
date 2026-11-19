@@ -18,6 +18,7 @@ sequences = list(SeqIO.parse(file_path, "fastaa"))
 # adding fitst commit   
 
 aa_sequences = []
+test_clone  = [] 
 
 for record in sequences:
     # Extract the DNA sequence from the FASTA record
